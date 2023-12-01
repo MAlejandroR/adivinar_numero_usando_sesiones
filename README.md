@@ -6,7 +6,7 @@ Clona el proyecto en un directorio de tu document root:
 * c:\xampp\htdocs en windows si has instalado xampp y no lo has modificado el DocumentRoot
 
 ```bash
-git clone 
+git clone https://github.com/MAlejandroR/adivinar_numero_usando_sesiones.git
 ```
 
 Como usamos composer para el autoload lo primero tienes que orquestar.
